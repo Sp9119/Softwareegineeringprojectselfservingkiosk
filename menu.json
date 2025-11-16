@@ -1,0 +1,23 @@
+{
+    "matcha": {
+        "Matcha Latte": 10.0,
+        "Strawberry Matcha": 6.0,
+        "Blueberry Matcha": 6.25
+    },
+    "coffee": {
+        "Espresso": 3.0,
+        "Flat White": 4.0,
+        "Latte": 4.5
+    },
+    "tea": {
+        "Green Tea": 2.5,
+        "Black Tea": 2.75,
+        "Fruit Tea": 3.0,
+        "Apple Tea": 2.5
+    },
+    "snacks": {
+        "Croissant": 2.0,
+        "Cookie": 1.5,
+        "Muffin": 2.25
+    }
+}
